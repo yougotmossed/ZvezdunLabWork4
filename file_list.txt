@@ -1,0 +1,2 @@
+total 0
+-rw-r--r-- 1 Леонид 197610 0 Jun 30 13:48 file_list.txt
